@@ -1,0 +1,56 @@
+* {
+    max-width: 80vw;
+    margin: 0 auto;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.top-section {
+    padding-top: 30px;
+}
+
+ul li {
+    display: inline;
+    float: right;
+    margin: 10px;
+}
+
+img {
+    padding-top: 50px;
+}
+
+h1 {
+    padding-top: 80px;
+    font-size: 33px;
+}
+
+.name {
+    max-width: 300px;
+    border-radius: 100px;
+    padding: 10px;
+    border: none;
+}
+
+.email {
+    max-width: 300px;
+    border-radius: 100px;
+    padding: 10px;
+    border: none;
+}
+
+.submit {
+    max-width: 500px;
+    border-radius: 100px;
+    padding: 10px;
+    border: none;
+    background-color: #4d20ff;
+    color: white !important;
+}
+
+footer {
+    padding-bottom: 30px;
+}
